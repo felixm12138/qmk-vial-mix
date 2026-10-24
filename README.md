@@ -55,8 +55,7 @@ MIX 有三种固件，按购买时选择的配置使用对应的仓库。 / MIX 
 电脑上会出现名为 `RPI-RP2` 的 U 盘，把 `.uf2` 文件拖进去，键盘会自动重启。**左右手都要刷。**
 A drive named `RPI-RP2` appears; copy the `.uf2` onto it and the board reboots. **Flash both halves.**
 
-> `firmware/cube_studio_mix_vial.uf2` 是预编译固件，尚未包含最新的源码改动（标准 `\` 键），会在之后更新；也可以按下文自行编译。
-> The prebuilt `firmware/cube_studio_mix_vial.uf2` predates the latest source change (standard `\` key) and will be refreshed later; you can also build it yourself as described below.
+预编译固件 / Prebuilt firmware: [`firmware/cube_studio_mix_vial.uf2`](firmware/cube_studio_mix_vial.uf2)
 
 ---
 
